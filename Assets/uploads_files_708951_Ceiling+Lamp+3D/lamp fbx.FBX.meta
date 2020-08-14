@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 65f503bfb991a07449747eabb79f8672
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ChamferCyl001
+    100002: ChamferCyl002
+    100004: ChamferCyl003
+    100006: ChamferCyl004
+    100008: ChamferCyl005
+    100010: ChamferCyl006
+    100012: ChamferCyl007
+    100014: ChamferCyl008
+    100016: Group2098646997
+    100018: Group2098647000
+    100020: //RootNode
+    100022: Line1789529818
+    100024: Line1789529819
+    100026: Line1789529820
+    100028: Line1789529821
+    100030: Line1789529822
+    100032: Line1789529823
+    100034: Line1789529824
+    100036: Line1789529825
+    100038: Sphere051
+    100040: Sphere052
+    100042: Sphere053
+    100044: Sphere054
+    400000: ChamferCyl001
+    400002: ChamferCyl002
+    400004: ChamferCyl003
+    400006: ChamferCyl004
+    400008: ChamferCyl005
+    400010: ChamferCyl006
+    400012: ChamferCyl007
+    400014: ChamferCyl008
+    400016: Group2098646997
+    400018: Group2098647000
+    400020: //RootNode
+    400022: Line1789529818
+    400024: Line1789529819
+    400026: Line1789529820
+    400028: Line1789529821
+    400030: Line1789529822
+    400032: Line1789529823
+    400034: Line1789529824
+    400036: Line1789529825
+    400038: Sphere051
+    400040: Sphere052
+    400042: Sphere053
+    400044: Sphere054
+    2100000: 'Material #214374256asd5'
+    2100002: metal_gold_004
+    2100004: 'Material #6assd'
+    2300000: ChamferCyl001
+    2300002: ChamferCyl002
+    2300004: ChamferCyl003
+    2300006: ChamferCyl004
+    2300008: ChamferCyl005
+    2300010: ChamferCyl006
+    2300012: ChamferCyl007
+    2300014: ChamferCyl008
+    2300016: Line1789529818
+    2300018: Line1789529819
+    2300020: Line1789529820
+    2300022: Line1789529821
+    2300024: Line1789529822
+    2300026: Line1789529823
+    2300028: Line1789529824
+    2300030: Line1789529825
+    2300032: Sphere051
+    2300034: Sphere052
+    2300036: Sphere053
+    2300038: Sphere054
+    3300000: ChamferCyl001
+    3300002: ChamferCyl002
+    3300004: ChamferCyl003
+    3300006: ChamferCyl004
+    3300008: ChamferCyl005
+    3300010: ChamferCyl006
+    3300012: ChamferCyl007
+    3300014: ChamferCyl008
+    3300016: Line1789529818
+    3300018: Line1789529819
+    3300020: Line1789529820
+    3300022: Line1789529821
+    3300024: Line1789529822
+    3300026: Line1789529823
+    3300028: Line1789529824
+    3300030: Line1789529825
+    3300032: Sphere051
+    3300034: Sphere052
+    3300036: Sphere053
+    3300038: Sphere054
+    4300000: Sphere054
+    4300002: Sphere052
+    4300004: ChamferCyl006
+    4300006: Line1789529824
+    4300008: Line1789529825
+    4300010: ChamferCyl007
+    4300012: ChamferCyl008
+    4300014: Line1789529821
+    4300016: ChamferCyl004
+    4300018: Line1789529820
+    4300020: ChamferCyl003
+    4300022: ChamferCyl002
+    4300024: Line1789529819
+    4300026: ChamferCyl001
+    4300028: Sphere051
+    4300030: Line1789529818
+    4300032: Sphere053
+    4300034: Line1789529822
+    4300036: Line1789529823
+    4300038: ChamferCyl005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
