@@ -1,5 +1,7 @@
 # AR-Portal
-AR-portal is made by using arcore and unity.
+AR Portals are Augmented Reality applications that allow users to place portals in the shape of doors, windows, and gateways that when walked through will provide a unique experience to the users. We teleport users to an all-new dimension where the entire environment is created to match your imagination. The elements can be a mix of 3D CGI objects, images, and videos. AR-portal is made by using arcore and unity.
+
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
